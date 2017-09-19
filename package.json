@@ -1,0 +1,26 @@
+{
+  "name": "javascriptintro",
+  "version": "1.0.0",
+  "description": "Introfile",
+  "main": "index.js",
+  "scripts": {
+    "test": "kodilla-tet"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rufusabcd/JavaScriptintro.git"
+  },
+  "keywords": [
+    "intro"
+  ],
+  "author": "Marcin Grzeniewski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rufusabcd/JavaScriptintro/issues"
+  },
+  "homepage": "https://github.com/Rufusabcd/JavaScriptintro#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0"
+  }
+}
